@@ -23,13 +23,13 @@ Continuous Monitoring → Concept Drift Detection
 Model Swapping → Accurate Prediction → Streamlit UI
 
 🛠 Technologies Used
-Category	Tools
+Category	        Tools
 Programming Language	Python
 Machine Learning	Scikit-learn
 Federated Learning	Custom FedAvg Simulation
 Drift Detection	River (ADWIN)
-UI	Streamlit
-Visualization	Matplotlib
+UI	               Streamlit
+Visualization	       Matplotlib
 Dataset	UCI Heart Disease Dataset
 📂 Project Structure
 Federated_HeartCare/
